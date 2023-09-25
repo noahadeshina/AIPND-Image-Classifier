@@ -1,1 +1,1 @@
-# State Of Art Image Classifier
+# State Of The Art Image Classifier
